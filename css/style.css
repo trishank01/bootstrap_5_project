@@ -171,7 +171,7 @@ padding: 0 8%;
 /* counter */
 
 #counter_section{
-    background-image: url(/img/Layer_2.jpg);
+    background-image: url(../img/Layer_2.jpg);
     position: relative;
     padding-top: 70px;
     padding-bottom: 70px;
